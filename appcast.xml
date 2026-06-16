@@ -6,13 +6,18 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.2</title>
-      <pubDate>Sat, 13 Jun 2026 11:56:09 +0000</pubDate>
-      <sparkle:version>202606132155</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Version 1.0.3</title>
+      <pubDate>Tue, 16 Jun 2026 11:17:57 +0000</pubDate>
+      <sparkle:version>202606162116</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <p>Bug fixes and improvements.</p> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.2/ParkShelf-1.0.2.zip" type="application/octet-stream" sparkle:edSignature="Vlvf/KMpbwoHtPLvP5Ap+5QBIRp34+3dl5PBOVTEPB6btRdGPh8YLbbNDEUxWgSBj8/zl9Uro+QMcdn6U8D1BA==" length="2490462" />
+      <description><![CDATA[ <h3>ParkShelf 1.0.3</h3>
+<ul>
+  <li><strong>Auto-doze fix:</strong> the shelf now collapses to its compact puck after a few seconds idle <em>even when pinned</em>. Pinning now only locks the shelf's position &mdash; it no longer keeps it expanded.</li>
+  <li><strong>New appearances:</strong> pick <strong>Liquid Glass</strong> or <strong>Liquid Glass Clear</strong> alongside the standard look, with <strong>Translucency</strong> and <strong>Tint</strong> sliders to fine-tune the glass (Settings &rarr; ParkShelf).</li>
+  <li><strong>Consistent preview:</strong> the live-preview panel now matches your chosen appearance.</li>
+</ul> ]]></description>
+      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.3/ParkShelf-1.0.3.zip" type="application/octet-stream" sparkle:edSignature="yxM8J+sMBR4pljoSBUwC/CkcZB7bdiYIcntafE3p89445DMAgp5hXFBPLI7uFAEetsxcyj3PCzh7gLSR1pa4Dw==" length="2488028" />
     </item>
   </channel>
 </rss>
