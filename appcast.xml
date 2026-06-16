@@ -6,18 +6,16 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.4</title>
-      <pubDate>Tue, 16 Jun 2026 11:42:11 +0000</pubDate>
-      <sparkle:version>202606162140</sparkle:version>
-      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <title>Version 1.0.5</title>
+      <pubDate>Tue, 16 Jun 2026 11:58:16 +0000</pubDate>
+      <sparkle:version>202606162156</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.0.4</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.0.5</h3>
 <ul>
-  <li><strong>Fixed:</strong> live window previews now appear correctly in the <strong>Liquid Glass</strong> and <strong>Liquid Glass Clear</strong> appearances (they were hidden in 1.0.3).</li>
-  <li><strong>Auto-doze:</strong> the shelf collapses to its compact puck after a few seconds idle even when pinned &mdash; pinning now only locks the shelf's position.</li>
-  <li><strong>Appearances:</strong> choose <strong>Liquid Glass</strong> or <strong>Liquid Glass Clear</strong> with <strong>Translucency</strong> and <strong>Tint</strong> sliders to fine-tune the glass (Settings &rarr; ParkShelf).</li>
+  <li><strong>Frosted glass chips:</strong> in the <strong>Liquid Glass</strong> and <strong>Liquid Glass Clear</strong> appearances, the parked-window cards and the toolbar now render as frosted glass to match the shelf &mdash; translucent, but kept legible so they never disappear when the shelf is dialed fully clear.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.4/ParkShelf-1.0.4.zip" type="application/octet-stream" sparkle:edSignature="51RiRtYrChnI6VZZtY7mkfB6+Yxo6DNZNsYXv9CJaPC/iU2BUe4iIXYxpziQicQlH2uyWIbVCvFb163Ju1q+Dg==" length="2488547" />
+      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.5/ParkShelf-1.0.5.zip" type="application/octet-stream" sparkle:edSignature="i8T2bQI4F2Onm42eAMUlNDYhYmNllng3y7X72wLCEr/vrTMJlWz1gEZVE0Ow37YGbk5GuC9uzrurYidKNBa4BQ==" length="2490827" />
     </item>
   </channel>
 </rss>
