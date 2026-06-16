@@ -6,16 +6,16 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.5</title>
-      <pubDate>Tue, 16 Jun 2026 11:58:16 +0000</pubDate>
-      <sparkle:version>202606162156</sparkle:version>
-      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <title>Version 1.0.6</title>
+      <pubDate>Tue, 16 Jun 2026 12:05:02 +0000</pubDate>
+      <sparkle:version>202606162203</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.0.5</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.0.6</h3>
 <ul>
-  <li><strong>Frosted glass chips:</strong> in the <strong>Liquid Glass</strong> and <strong>Liquid Glass Clear</strong> appearances, the parked-window cards and the toolbar now render as frosted glass to match the shelf &mdash; translucent, but kept legible so they never disappear when the shelf is dialed fully clear.</li>
+  <li><strong>Tint follows through:</strong> the <strong>Tint</strong> slider's smoked-glass cast now applies to the parked-window cards and toolbar too, so the whole shelf darkens together (Liquid Glass appearances).</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.5/ParkShelf-1.0.5.zip" type="application/octet-stream" sparkle:edSignature="i8T2bQI4F2Onm42eAMUlNDYhYmNllng3y7X72wLCEr/vrTMJlWz1gEZVE0Ow37YGbk5GuC9uzrurYidKNBa4BQ==" length="2490827" />
+      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.6/ParkShelf-1.0.6.zip" type="application/octet-stream" sparkle:edSignature="nzY8SVX9/vh/vWGR58zwkY7C4p2HaNdWUcrZ8ceafpPM8470Oummp/SvRaLJVLLe9FaIyKevDqQiaEYmtQKsBg==" length="2491453" />
     </item>
   </channel>
 </rss>
