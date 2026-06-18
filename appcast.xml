@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>ParkShelf</title>
-    <link>https://raw.githubusercontent.com/sathinator-afk/parkshelf-releases/main/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/sathinator-afk/ParkShelf-Mac/main/appcast.xml</link>
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
@@ -19,7 +19,7 @@
   <li><strong>Stays out of your way:</strong> the shelf dozes into a tiny puck when idle, and wakes on hover.</li>
   <li><strong>Make it yours:</strong> Current, Liquid Glass, and Liquid Glass Clear appearances, with Translucency and Tint sliders.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0/ParkShelf-1.0.zip" type="application/octet-stream" sparkle:edSignature="6IsXzTTpigldem99dfcPqVC/obYaGPU3x0uZSxvZ8+jKYGeHa2GoEWPTKzfjvuap+Hxeb6+wC8obiwViA4tHDA==" length="2490583" />
+      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.0/ParkShelf-1.0.zip" type="application/octet-stream" sparkle:edSignature="6IsXzTTpigldem99dfcPqVC/obYaGPU3x0uZSxvZ8+jKYGeHa2GoEWPTKzfjvuap+Hxeb6+wC8obiwViA4tHDA==" length="2490583" />
     </item>
   </channel>
 </rss>
