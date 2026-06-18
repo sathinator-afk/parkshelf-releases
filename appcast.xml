@@ -6,16 +6,20 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.7</title>
-      <pubDate>Tue, 16 Jun 2026 12:14:47 +0000</pubDate>
-      <sparkle:version>202606162213</sparkle:version>
-      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <title>Version 1.0</title>
+      <pubDate>Thu, 18 Jun 2026 04:39:01 +0000</pubDate>
+      <sparkle:version>202606181437</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.0.7</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.0</h3>
+<p>The first public release of ParkShelf for Mac.</p>
 <ul>
-  <li><strong>Preview matches the shelf:</strong> the live-preview window now uses the same frosted-glass chip styling as the cards and tracks the <strong>Translucency</strong> and <strong>Tint</strong> sliders just like the main shelf.</li>
+  <li><strong>Park any window</strong> onto a floating shelf — drag it there or press ⌥P — and pull it back the moment you need it (⌥⇧R restores everything).</li>
+  <li><strong>Live previews:</strong> click a parked card to peek at the window, or tear it straight back into your workspace.</li>
+  <li><strong>Stays out of your way:</strong> the shelf dozes into a tiny puck when idle, and wakes on hover.</li>
+  <li><strong>Make it yours:</strong> Current, Liquid Glass, and Liquid Glass Clear appearances, with Translucency and Tint sliders.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.7/ParkShelf-1.0.7.zip" type="application/octet-stream" sparkle:edSignature="IFRXDMnPLeE+V/Eo89VDQqT6rRw6L/C82iAIJrY8joIo+6CLG/mfcTRrt45OqUqq+0zSngO+0q57boQTydQ/BA==" length="2490508" />
+      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0/ParkShelf-1.0.zip" type="application/octet-stream" sparkle:edSignature="6IsXzTTpigldem99dfcPqVC/obYaGPU3x0uZSxvZ8+jKYGeHa2GoEWPTKzfjvuap+Hxeb6+wC8obiwViA4tHDA==" length="2490583" />
     </item>
   </channel>
 </rss>
