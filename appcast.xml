@@ -7,8 +7,8 @@
     <language>en</language>
     <item>
       <title>Version 1.0</title>
-      <pubDate>Thu, 18 Jun 2026 11:57:38 +0000</pubDate>
-      <sparkle:version>202606182156</sparkle:version>
+      <pubDate>Fri, 19 Jun 2026 13:00:13 +0000</pubDate>
+      <sparkle:version>202606192258</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[ <h3>ParkShelf 1.0</h3>
@@ -19,7 +19,7 @@
   <li><strong>Stays out of your way:</strong> the shelf dozes into a tiny puck when idle, and wakes on hover.</li>
   <li><strong>Make it yours:</strong> Current, Liquid Glass, and Liquid Glass Clear appearances, with Translucency and Tint sliders.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.0/ParkShelf-1.0.zip" type="application/octet-stream" sparkle:edSignature="XNQKaxcinOoXQzRG2mR5sJVRK0LZhH4JJdRClck+vqWcwFTuKPi2bFNOWf5UNUySTvQM65fRDg9EVddSnyJpDw==" length="2491499" />
+      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.0/ParkShelf-1.0.zip" type="application/octet-stream" sparkle:edSignature="HglJ/l4tNNxQWuIeDKLgybtf4mbGUl9HrYEjh36YM3pDhkZ+vgDNk/MlwozDSnvYV/gv8CLLpbGgk//WcnpiAA==" length="2491470" />
     </item>
   </channel>
 </rss>
