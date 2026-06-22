@@ -6,20 +6,17 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0</title>
-      <pubDate>Fri, 19 Jun 2026 13:00:13 +0000</pubDate>
-      <sparkle:version>202606192258</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <title>Version 1.0.1</title>
+      <pubDate>Mon, 22 Jun 2026 11:40:39 +0000</pubDate>
+      <sparkle:version>202606222139</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.0</h3>
-<p>The first public release of ParkShelf for Mac.</p>
+      <description><![CDATA[ <h3>ParkShelf 1.0.1</h3>
 <ul>
-  <li><strong>Park any window</strong> onto a floating shelf — drag it there or press ⌥P — and pull it back the moment you need it (⌥⇧R restores everything).</li>
-  <li><strong>Live previews:</strong> click a parked card to peek at the window, or tear it straight back into your workspace.</li>
-  <li><strong>Stays out of your way:</strong> the shelf dozes into a tiny puck when idle, and wakes on hover.</li>
-  <li><strong>Make it yours:</strong> Current, Liquid Glass, and Liquid Glass Clear appearances, with Translucency and Tint sliders.</li>
+  <li><strong>Tidier parking when a window can’t slide off-screen</strong> (for example, on a single display): ParkShelf now hides the window’s app instead of minimizing it to the Dock — a cleaner vanish, with no Dock entry. Restore it from the shelf exactly as before.</li>
+  <li>Because this hides the app, parking one window of a multi-window app tucks its other windows away too; they all come back together when you restore the card.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.0/ParkShelf-1.0.zip" type="application/octet-stream" sparkle:edSignature="HglJ/l4tNNxQWuIeDKLgybtf4mbGUl9HrYEjh36YM3pDhkZ+vgDNk/MlwozDSnvYV/gv8CLLpbGgk//WcnpiAA==" length="2491470" />
+      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.0.1/ParkShelf-1.0.1.zip" type="application/octet-stream" sparkle:edSignature="iTyCdQD3lu1pS9ncFVgkWv+j0DJGnKomFy7rgYQS8sF4jrl0Neyvx9ANuESah8AshYpv0f2B5uREY2FyT7xAAg==" length="2490473" />
     </item>
   </channel>
 </rss>
